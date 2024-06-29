@@ -1,4 +1,5 @@
+import hate
 import love
 
 def main():
-    return love.love()
+    return love.love() + hate.hate()
