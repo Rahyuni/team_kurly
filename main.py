@@ -1,5 +1,5 @@
-# like 담당자인 경우
 import hate
+import love
 
 def main():
-	return hate.hate()
+    return love.love() + hate.hate()
